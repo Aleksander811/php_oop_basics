@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "name": "OOP basics",
+        "description": "OOP",
+        "psr-4": {
+            "ESHOP\\": "app"
+        }
+    }
+}
